@@ -59,7 +59,7 @@ app.get("/scrape", function(req, res) {
         .attr("href");
         console.log(result.url)
       // result.summary = $(this)
-      //   .find(".post-block__header p")
+      //   .find(".post-block__header p") content?
       //   .text();
       //   console.log(result.summary)
 
