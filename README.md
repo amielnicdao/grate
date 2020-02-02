@@ -39,7 +39,7 @@ You will need to install the following to work on Grate:
 ### How To Use Grate
 
 1. Go to the Heroku app
-2. Click 'Get Scrapin'!"
+2. Click "Get Scrapin'!"
 
     **Homepage**
 
@@ -71,7 +71,7 @@ You will need to install the following to work on Grate:
 
 ## Future Development
 
-* Be able to save more than one comment.
+* Be able to save more than one comment
 * Be able to save an article
 * Better design
 
@@ -80,6 +80,7 @@ You will need to install the following to work on Grate:
 * Instructor
 * TAs
 * Study Group 
- - Lazaro Perez
- - Felix Fernandez
- - Zekeriya Otumlu
+    * Lazaro Perez
+    * Felix Fernandez
+    * Zekeriya Otumlu
+ 
