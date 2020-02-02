@@ -1,6 +1,6 @@
 # Grate
 
-All The News That's Fit To Scrape [Deployed on Heroku](https://mighty-caverns-35804.herokuapp.com/)
+All The News That's Fit To Scrape [Deployed on Heroku](https://frozen-chamber-40916.herokuapp.com/)
 
 Grate is a web scraper that scrapes the latest articles from TechCrunch.
 
