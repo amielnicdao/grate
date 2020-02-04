@@ -23,8 +23,8 @@ app.use(express.static("public"));
 
 // MONGODB CONNECTION
 const MONGODB_URI =
-  process.env.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
-	// process.env.MONGODB_URI || "mongodb://heroku_ln5zl5jw:sh0r5nqjurcied2gt28htts6f0@ds037358.mlab.com:37358/heroku_ln5zl5jw";
+  // process.env.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
+	process.env.MONGODB_URI || "mongodb://heroku_ln5zl5jw:sh0r5nqjurcied2gt28htts6f0@ds037358.mlab.com:37358/heroku_ln5zl5jw";
 mongoose.connect(MONGODB_URI);
 
 // ROUTES
